@@ -1,0 +1,5 @@
+1. The shell script is___? # a) File containing a series of commands b) File containing special symbols # a
+2. What will be the output of $date? # a) Current date b) Current date and time # b
+3. In UNIX there are ___ major types of shells. ? # a) 2 b) 3 # a
+4. Which shell is the most common and best to use? # a) FBourne shell b) Bash Shell # b
+5.What is the default symbol for command prompt in Bourne shell? # a) $ b) s # a
